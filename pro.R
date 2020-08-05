@@ -11,5 +11,9 @@ fd
 df=rbind(df,data.frame(v4=4,v5="python",v6=69))
 df
 df
+
+
+
+
 df
 df
